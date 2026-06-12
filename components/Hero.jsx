@@ -91,7 +91,7 @@ function Hero() {
           {/* Action buttons */}
           <div className="hero-actions" id="download">
             <a
-              href="https://www.dropbox.com/scl/fi/7ey5d2rt2qnq0nyqpzbrz/macrolens.apk?rlkey=skxc61h2zdgrnz9gruwsk48lg&st=mnenjakm&dl=0"
+              href="https://github.com/Udu-Jonaka/macrolens-web/releases/download/v1.0.0/macrolens.apk"
               className="hero-download-btn"
             >
               <i
